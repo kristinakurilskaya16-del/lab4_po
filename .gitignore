@@ -1,0 +1,6 @@
+.vs/
+lab4_po.sln
+x64/
+*/*.vcxproj
+*/*.vcxproj.filters
+*/*.vcxproj.user
